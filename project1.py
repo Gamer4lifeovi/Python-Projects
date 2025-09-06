@@ -1,5 +1,5 @@
-name = input("Enter your name")
-print ("Hello" + name + "Welcome to the game")
+name = input("Enter your name ")
+print ("Hello " + name + " Welcome to the game")
 
 should_we_play = input("Do you want to play").lower()
 
