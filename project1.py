@@ -1,6 +1,7 @@
 name = input("Enter your name ")
 
 name = name.strip()
+name = name.capitalize()
 
 print ("Hello " + name + " Welcome to the game")
 
